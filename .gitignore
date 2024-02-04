@@ -1,6 +1,11 @@
 node_modules
 dummydata
 
+.env
+.env.local
+.env.development
+.env.production
+
 # Ignore all contents of public/uploads/
 public/uploads/*
 # But include the directory itself
