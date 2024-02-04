@@ -1,0 +1,22 @@
+{
+  "name": "playmakers-js-task",
+  "version": "1.0.0",
+  "description": "Task for PlayMakers to verify users' badges.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kobi Schonberger",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.3",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.22.10",
+    "node-vibrant": "^3.2.1-alpha.1",
+    "path": "^0.12.7",
+    "sharp": "^0.33.2",
+    "uuid": "^9.0.1"
+  }
+}
