@@ -1,0 +1,7 @@
+node_modules
+dummydata
+
+# Ignore all contents of public/uploads/
+public/uploads/*
+# But include the directory itself
+!public/uploads/.gitkeep
